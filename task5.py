@@ -30,8 +30,7 @@ while True:
             #find the index/position of the item you are trying to drop
             inventory.pop(a)
             print(inventory)
-        elif items in inventory == 0:
-            print("you have nothing to drop")
+            
     if A == "see inventory":
         print(inventory)
         print("this is your inventory! you can add or drop items into your inventory")
