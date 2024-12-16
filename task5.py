@@ -36,5 +36,5 @@ while True:
         print("this is your inventory! you can add or drop items into your inventory")
 
     
-
+        #all done i believe
        
