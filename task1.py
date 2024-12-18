@@ -20,7 +20,7 @@ def main():
     print(decimals)
 
     return integers and decimals
-
+    
 
 if __name__ == "__main__":
     main()
